@@ -1,0 +1,21 @@
+{
+  "name": "express-redis-crud",
+  "version": "1.0.0",
+  "description": "Simple Express.js server for learning CRUD operations with Redis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "express.js",
+    "node.js",
+    "crud"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "redis": "^4.7.0"
+  }
+}
