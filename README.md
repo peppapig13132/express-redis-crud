@@ -1,5 +1,7 @@
 # Express Redis CRUD Sample Application
 
+![Node.js](https://img.shields.io/badge/node.js-20.12.2-blue)
+
 Simple Express.js server to practice CRUD operations with Redis. This project demonstrates how to set up a basic RESTful API using Node.js, Express, and Redis for creating, reading, updating, and deleting data. Ideal for beginners looking to understand Redis integration with Node.js.
 
 ## Run
@@ -56,3 +58,5 @@ Check if the application with Postman.
 
     http://localhost:3000/delete/exampleKey
 
+
+Oh, do you want to see the data in your Redis database? Then download **Redis Insight** [here](https://redis.io/insight/) on your desktop.
